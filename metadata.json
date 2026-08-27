@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio Shortcut Extension Generator",
+  "description": "Google AI Studio 键盘快捷键 Chrome 浏览器插件生成与下载器（Enter发送，Ctrl+Enter换行）",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
